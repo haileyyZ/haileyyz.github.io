@@ -4,7 +4,6 @@ SARS-CoV-2 Spike Protein and NTD-Binding Antibody Using High-Speed Atomic Force 
 collection: publications
 category: conferences
 permalink: /publication/BiophysJ2024_poster
-date: 2024-02-08
 paperurl: 'https://www.cell.com/biophysj/fulltext/S0006-3495(23)01956-2'
 citation: 'Zhang, P.; Chou, C.-W.; Finkelstein, I. J.; Lin, Y.-C., Real-Time Visualization of Intermolecular Interactions between
 SARS-CoV-2 Spike Protein and NTD-Binding Antibody Using High-Speed Atomic Force Microscopy. Biophys. J. 2024,
