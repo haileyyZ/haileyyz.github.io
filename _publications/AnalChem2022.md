@@ -3,9 +3,9 @@ title: "Cross-Reactive Fluorescent Sensor Array for Discrimination of Amyloid Be
 collection: publications
 category: manuscripts
 permalink: /publication/AnalChem2022
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2022/4/1
-venue: 'GitHub Journal of Bugs'
+excerpt: 'Simple sensor array for disease biomarkers'
+date: 2022-04-01
+venue: 'Journal1'
 paperurl: 'http://academicpages.github.io/files/AnalChem2022.pdf'
 citation: 'Zhang, P.; Tan, C., Cross-Reactive Fluorescent Sensor Array for Discrimination of Amyloid Beta Aggregates. Anal. Chem. 2022, 94, 5469-5473.'
 ---
