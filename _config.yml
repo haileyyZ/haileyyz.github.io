@@ -9,11 +9,11 @@ last_name: Zhang
 contact_note: >
   Feel free to reach out via email for research collaboration or academic inquiries.
 description: >
-  Personal academic website of Pangmiaomiao Zhang, a Chemistry PhD candidate at the University of Texas at Austin, specializing in single-molecule biophysics, high-speed AFM imaging, and structural biology.
+  Personal academic website of Pangmiaomiao Zhang, a Chemistry Ph.D. candidate at the University of Texas at Austin working in bioanalytical assay development, nucleic acid-protein interactions, and single-molecule imaging.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: Pangmiaomiao Zhang, chemistry, biophysics, HS-AFM, single-molecule imaging, SARS-CoV-2, structural biology, UT Austin
+keywords: Pangmiaomiao Zhang, analytical chemistry, bioanalytical assays, nucleic acid-protein interactions, HS-AFM, DNA repair, SARS-CoV-2, UT Austin
 lang: en
 icon: 🔬 # the emoji used as the favicon
 
@@ -56,7 +56,7 @@ navbar_fixed: true
 footer_fixed: true
 search_enabled: true
 socials_in_search: true
-posts_in_search: true
+posts_in_search: false
 bib_search: true
 
 # Dimensions
@@ -97,7 +97,7 @@ lsi: false # produce an index for related posts
 
 # Pagination
 pagination:
-  enabled: true
+  enabled: false
 
 related_blog_posts:
   enabled: true
@@ -140,15 +140,11 @@ newsletter:
 # -----------------------------------------------------------------------------
 
 collections:
-  books:
-    output: true
   news:
     defaults:
       layout: post
     output: true
   projects:
-    output: true
-  teachings:
     output: true
 
 # -----------------------------------------------------------------------------
@@ -171,7 +167,10 @@ kramdown:
 # Includes & excludes
 include: ["_pages", "_scripts"]
 exclude:
+  - AGENTS.md
+  - ANALYTICS.md
   - bin/
+  - CLAUDE.md
   - CONTRIBUTING.md
   - CUSTOMIZE.md
   - Dockerfile
@@ -185,11 +184,15 @@ exclude:
   - lighthouse_results/
   - package.json
   - package-lock.json
-  - _pages/about_einstein.md
+  - QUICKSTART.md
   - purgecss.config.js
   - README.md
   - readme_preview/
+  - requirements.txt
+  - SEO.md
+  - TROUBLESHOOTING.md
   - vendor
+  - assets/rendercv/
 keep_files:
   - CNAME
   - .nojekyll
@@ -254,8 +257,6 @@ jekyll-archives:
       year: "/blog/:year/"
       tags: "/blog/:type/:name/"
       categories: "/blog/:type/:name/"
-  books:
-    enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
 
 display_tags: ["formatting", "images", "links", "math", "code", "blockquotes"] # these tags will be displayed on the front page of your blog
 display_categories: ["external-services"] # these categories will be displayed on the front page of your blog
@@ -638,21 +639,3 @@ third_party_libraries:
 # -----------------------------------------------------------------------------
 # Get external JSON data
 # -----------------------------------------------------------------------------
-
-jekyll_get_json:
-  - data: resume
-    json: assets/json/resume.json # it can also be an url
-
-jsonresume:
-  - basics
-  - work
-  - education
-  - publications
-  - projects
-  - volunteer
-  - awards
-  - certificates
-  - skills
-  - languages
-  - interests
-  - references

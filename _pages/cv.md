@@ -4,9 +4,9 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 4
-cv_pdf: /assets/pdf/CV_for 2026 intern_101625.pdf
+cv_pdf: /assets/pdf/Pangmiaomiao_Zhang_CV_2026.pdf
 cv_format: rendercv # options: rendercv, jsonresume
-description: Curriculum Vitae of Pangmiaomiao Zhang - PhD Candidate in Chemistry at the University of Texas at Austin.
+description: Curriculum vitae of Pangmiaomiao Zhang, Chemistry Ph.D. candidate at the University of Texas at Austin (expected May 2027).
 toc:
   sidebar: left
 ---

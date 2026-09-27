@@ -1,160 +1,109 @@
 cv:
   name: Pangmiaomiao Zhang
-  # label: PhD Candidate in Chemistry
+  headline: Ph.D. Candidate in Chemistry (expected May 2027)
   location: Austin, TX
-  email: '<a href="mailto:miaomiao22@utexas.edu">miaomiao22@utexas.edu</a>'
+  email: miaomiao22@utexas.edu
+  phone: "+1 512-777-8176"
   website: https://haileyyz.github.io
-  
-  image: ""
-  summary: A Chemistry PhD candidate at the University of Texas at Austin specializing in single-molecule biophysics, high-speed atomic force microscopy (HS-AFM), and structural biology of SARS-CoV-2 proteins.
-
   social_networks:
     - network: LinkedIn
       username: pangmiaomiaozhang
-
-  address:
-    street: Robert A. Welch Hall, 105 E 24th St
-    city: Austin
-    region: Texas
-    postalCode: TX 78712
-    countryCode: US
-
   sections:
+    Qualification:
+      - bullet: "Analytical chemist specializing in bioanalytical assay development and nucleic acid-protein interactions."
+      - bullet: "Experienced in designing biochemical and single-molecule workflows, quantitative characterization, instrument troubleshooting, mentoring, and interdisciplinary collaboration."
     Education:
-      - institution: University of Texas at Austin
-        location: Austin, TX, USA
+      - institution: The University of Texas at Austin
+        location: Austin, TX
         url: https://www.utexas.edu/
         area: Chemistry
-        studyType: PhD
+        degree: Ph.D. candidate
         start_date: 2022-08
-        end_date: ""
-        score: "GPA: 3.95/4.00"
+        end_date: 2027-05
         highlights:
-          - "Advisor: Prof. Yi-Chih Lin"
-          - "Research focus: Single-molecule biophysics using HS-AFM and cryo-EM"
-
+          - "Expected graduation: May 2027"
+          - "GPA: 3.95/4.00"
       - institution: Tsinghua University
-        location: Beijing, China
+        location: China
         url: https://www.tsinghua.edu.cn/en/
         area: Chemistry
-        studyType: Master
+        degree: M.Sc.
         start_date: 2019-09
         end_date: 2022-06
-        score: "GPA: 3.90/4.00 (top 3)"
         highlights:
-          - "Advisor: Prof. Chunyan Tan"
-          - "Outstanding M.Sc. Thesis Award"
-          - "Outstanding Master Graduate of 2022"
-
-      - institution: Southern University of Science and Technology (SUSTech)
-        location: Shenzhen, China
+          - "GPA: 3.87/4.00"
+      - institution: Southern University of Science and Technology
+        location: China
         url: https://www.sustech.edu.cn/en/
         area: Chemistry
-        studyType: Bachelor
+        degree: B.Sc.
         start_date: 2015-09
         end_date: 2019-06
-        score: "GPA: 3.85/4.00 (top 5%)"
         highlights:
-          - "Advisor: Prof. Pengfei Li"
-          - "Outstanding B.Sc. Thesis Award"
-          - "Outstanding Graduate of 2019"
-
+          - "GPA: 3.85/4.00"
     Experience:
-      - company: Department of Chemistry, UT Austin
-        position: Graduate Research Assistant
-        location: Austin, TX, USA
-        start_date: 2023-02
-        end_date: ""
-        summary: "Advisor: Prof. Yi-Chih Lin"
+      - company: Lin Bio-AFM Lab, The University of Texas at Austin
+        position: Graduate Researcher
+        location: Austin, TX
+        start_date: 2023
+        end_date: present
         highlights:
-          - "Real-time structural and functional studies of SARS-CoV-2 spike proteins and interactions with related biomolecules using HS-AFM"
-          - "Real-time visualization of G2L4 reverse transcriptase in DNA repair by microhomology-mediated end joining (MMEJ)"
-          - "Structural and functional investigation of SARS-CoV-2 membrane proteins using HS-AFM, TEM, and cryo-ET"
-          - "Research supported by an NIH Maximizing Investigators' Research Award ($1.95M)"
-
-      - company: Department of Chemistry, Tsinghua University
-        position: Graduate Research Assistant
-        location: Beijing, China
-        start_date: 2019-11
-        end_date: 2022-04
-        summary: "Advisor: Prof. Chunyan Tan"
+          - "Designed DNA substrates and optimized biochemical and single-molecule assays to study G2L4 reverse transcriptase-mediated DNA repair; first-author manuscript accepted in Nature Communications."
+          - "Investigated how N- and O-linked glycosylation changes SARS-CoV-2 spike-antibody binding, complex formation, and aggregation using deglycosylation, SDS-PAGE, mass photometry, HS-AFM, and TEM."
+          - "Expressed and purified full-length SARS-CoV-2 membrane protein and optimized detergent solubilization, liposome reconstitution, and structural imaging workflows."
+      - company: The University of Texas at Austin
+        position: Teaching Assistant
+        location: Austin, TX
+        start_date: 2022
+        end_date: present
         highlights:
-          - "Developed cross-reactive fluorescence sensor arrays for discrimination of amyloid beta 42 aggregates"
-          - "Detection of histone acetylation related enzymes using conjugated polyelectrolytes"
-
-      - company: Department of Chemistry, SUSTech
-        position: Undergraduate Research Assistant
-        location: Shenzhen, China
-        start_date: 2017-03
-        end_date: 2018-09
-        summary: "Advisor: Prof. Pengfei Li"
+          - "Led chemistry discussion or laboratory sessions and evaluated undergraduate assignments."
+      - company: Lin Bio-AFM Lab, The University of Texas at Austin
+        position: HS-AFM Instrument Manager
+        location: Austin, TX
+        start_date: 2022
+        end_date: present
         highlights:
-          - "Phosphine-catalyzed enantioselective [1+4] annulation of Morita-Baylis-Hillman carbonates (co-first author publication)"
-          - "Catalyst-free cycloaddition reaction for spiro scaffolds"
-
+          - "Managed shared HS-AFM instrumentation, trained new users, troubleshot performance, and developed standardized biological sample-preparation and imaging protocols."
       - company: Texas Venture Lab
         position: Associate Consultant
-        location: Austin, TX, USA
+        location: Austin, TX
         start_date: 2025-01
         end_date: 2025-05
         highlights:
-          - "Conducted market research, competitive analysis, and financial modeling for Synvect, a biological start-up applying gene-editing to control mosquito populations"
-
-    Awards:
-      - title: Outstanding M.Sc. Thesis Award
-        date: 2022-06
-        awarder: Tsinghua University
-
-      - title: Outstanding Master Graduate of 2022
-        date: 2022-06
-        awarder: Tsinghua University
-
-      - title: Integrated Second-Class Scholarship
-        date: 2021-10
-        awarder: SIGS, Tsinghua University
-
-      - title: Performance Team in 2020 SDG Open Hack
-        date: 2020-11
-        awarder: Tsinghua University
-
-      - title: Tsinghua-Shanghai HuaYi Scholarship (top 5%)
-        date: 2020-10
-        awarder: Tsinghua University
-
-      - title: Outstanding B.Sc. Thesis Award
-        date: 2019-06
-        awarder: Southern University of Science and Technology
-
-      - title: Outstanding Graduate of 2019
-        date: 2019-05
-        awarder: Southern University of Science and Technology
-
-      - title: Merit-Based Undergraduate Scholarship
-        date: 2016
-        awarder: Southern University of Science and Technology
-        summary: "Awarded in 2016, 2017, and 2018"
-
-      - title: Outstanding Freshmen Award
-        date: 2015-09
-        awarder: Southern University of Science and Technology
-
+          - "Conducted market research, competitive analysis, and financial modeling for a biotechnology startup developing gene-editing approaches for mosquito population control."
+          - "Presented technical and commercial findings to startup stakeholders."
+      - company: Tsinghua University
+        position: Graduate Researcher
+        location: China
+        start_date: 2019
+        end_date: 2022
+        highlights:
+          - "Developed fluorescence sensor arrays for amyloid beta aggregates and disease-associated urinary protein profiles, including human urine samples in a clinical collaboration."
+          - "Developed polymer-peptide fluorescence probes for p300- and SIRT1-related enzyme activity assays."
+      - company: Southern University of Science and Technology
+        position: Undergraduate Researcher
+        location: China
+        start_date: 2017
+        end_date: 2018
+        highlights:
+          - "Developed asymmetric annulation and catalyst-free cycloaddition reactions using small-molecule synthesis, chromatography, NMR, HPLC, and X-ray crystallography."
     Skills:
-      - name: Instrumentation
-        icon: fa-solid fa-microscope
-        keywords: "HS-AFM, NMR, HPLC-MS, CD spectrometer, Fluorescence spectrometer, UV-vis spectrophotometer, Microplate reader, Nanodrop, TEM, Cryo-EM, Cryo-ET"
-
-      - name: Experimental Techniques
-        icon: fa-solid fa-flask
-        keywords: "Protein expression and purification, Column chromatography, DNA/protein gel electrophoresis, Organic synthesis, Glove box operation"
-
-      - name: Software
-        icon: fa-solid fa-laptop-code
-        keywords: "Python, ChimeraX, ImageJ, Adobe Illustrator, IgorPro, Origin, Chemdraw, MestReNova, Matlab"
-
-    Languages:
-      - name: Chinese
-        summary: "Native speaker"
-
-      - name: English
-        summary: "Proficient"
-
+      - label: Bioanalytical and Biochemical Assays
+        details: PCR, ELISA, enzyme activity assays, fluorescence assays, SDS-PAGE, Western blotting, DNA-PAGE
+      - label: Molecular Biology and Sample Preparation
+        details: oligonucleotide and primer design, cell homogenization, nucleic acid and protein extraction, protein expression and purification, dialysis, membrane protein reconstitution
+      - label: Analytical Characterization
+        details: mass spectrometry, HPLC-MS, mass photometry, HS-AFM, TEM, NMR, CD, fluorescence spectroscopy, UV-Vis spectroscopy, DLS
+      - label: Data Analysis and Scientific Software
+        details: Python, MATLAB, ImageJ/Fiji, ChimeraX, Igor Pro, Origin, MNova, ChemDraw
+    Awards:
+      - name: Chemistry Department Research Fellowship
+        date: 2026
+        summary: The University of Texas at Austin
+      - name: Outstanding M.Sc. Thesis Award and Outstanding Graduate
+        date: 2022
+        summary: Tsinghua University
+      - name: Outstanding B.Sc. Thesis Award and Outstanding Graduate
+        date: 2019
+        summary: Southern University of Science and Technology

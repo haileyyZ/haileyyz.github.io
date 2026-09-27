@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: PhD Candidate, <a href='https://www.utexas.edu/'>University of Texas at Austin</a>, Department of Chemistry
+subtitle: Ph.D. Candidate (expected May 2027), <a href='https://www.utexas.edu/'>University of Texas at Austin</a> | Bioanalytical Assay Development
 
 profile:
   align: right
@@ -25,8 +25,8 @@ latest_posts:
   limit: 3
 ---
 
-I am a PhD candidate in the [Department of Chemistry](https://cm.utexas.edu/) at the [University of Texas at Austin](https://www.utexas.edu/), working under the supervision of [Prof. Yi-Chih Lin](https://sites.google.com/utexas.edu/yichihlin-lab/). My research focuses on **single-molecule biophysics**, where I use **high-speed atomic force microscopy (HS-AFM)** and **cryo-electron microscopy (cryo-EM/cryo-ET)** to investigate the structure and dynamics of biomolecules at the nanoscale.
+I am a Chemistry Ph.D. candidate at the [University of Texas at Austin](https://www.utexas.edu/) in the [Lin Bio-AFM Lab](https://sites.google.com/utexas.edu/yichihlin-lab/), with an expected graduation date of **May 2027**. I develop bioanalytical assays to study **nucleic acid-protein interactions** and biomolecular structure. My work combines biochemical methods with high-speed atomic force microscopy (HS-AFM), mass photometry, fluorescence assays, and electron microscopy.
 
-My current research projects include real-time visualization of SARS-CoV-2 spike proteins and their interactions with neutralizing antibodies, structural studies of SARS-CoV-2 membrane proteins, and investigating DNA repair mechanisms through single-molecule imaging. This research is supported by an NIH Maximizing Investigators' Research Award.
+My current research examines G2L4 reverse transcriptase-mediated DNA repair, the effect of viral glycosylation on SARS-CoV-2 spike-antibody interactions, and the structure of the SARS-CoV-2 membrane protein. My first-author manuscript on G2L4-mediated DNA repair has been **accepted in Nature Communications**. I also serve as a teaching assistant and manage shared HS-AFM instrumentation in the Lin Bio-AFM Lab.
 
-Prior to joining UT Austin, I obtained my Master's degree from [Tsinghua University](https://www.tsinghua.edu.cn/en/) (advised by [Prof. Chunyan Tan](https://www.sigs.tsinghua.edu.cn/tcy_en/main.htm)), where I developed fluorescence sensor arrays for discriminating amyloid beta aggregates. I received my Bachelor's degree from [Southern University of Science and Technology (SUSTech)](https://www.sustech.edu.cn/en/), where I worked on organic synthesis and catalysis with [Prof. Pengfei Li](https://faculty.sustech.edu.cn/?tagid=lipf&go=1&lang=en).
+Previously, I earned an M.Sc. in Chemistry from [Tsinghua University](https://www.tsinghua.edu.cn/en/), where I developed fluorescence sensor arrays for disease-related biomolecular analysis, and a B.Sc. in Chemistry from [Southern University of Science and Technology](https://www.sustech.edu.cn/en/), where I studied organic synthesis and catalysis. I received the **Chemistry Department Research Fellowship at UT Austin in 2026**.

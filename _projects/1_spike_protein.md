@@ -1,22 +1,21 @@
 ---
 layout: page
-title: "SARS-CoV-2 Spike Protein & Neutralizing Antibody Interactions"
-description: "Real-time structural and functional studies using high-speed AFM (Feb 2023 – Present)"
+title: "Viral Glycosylation and SARS-CoV-2 Spike-Antibody Interactions"
+description: "Bioanalytical study of N- and O-linked glycosylation and antibody binding (manuscript in preparation)"
 importance: 1
 category: UT Austin
 related_publications: true
 ---
 
-**Advisor:** Prof. Yi-Chih Lin | **Supported by:** NIH Maximizing Investigators' Research Award ($1.95M)
+**Status:** Manuscript in preparation
 
-This project focuses on real-time visualization and characterization of SARS-CoV-2 spike proteins and their interactions with host receptors and therapeutic antibodies at the single-molecule level.
+This project investigates how N- and O-linked glycosylation affects binding of an N-terminal domain (NTD)-targeting antibody to SARS-CoV-2 spike proteins, as well as complex formation and aggregation.
 
 #### Key Contributions
 
-- Visualized single spike protein, ACE2, and neutralizing antibody (NTD binder) using **high-speed atomic force microscopy (HS-AFM)** and compared with simulated AFM images
-- Analyzed **single-molecule dynamics** of neutralizing antibody binding
-- Investigated **intermolecular interactions** between spike protein and neutralizing antibody in real time
+- Developed an integrated biochemical workflow using **enzymatic deglycosylation**, **SDS-PAGE**, **mass photometry**, **HS-AFM**, and **TEM**
+- Quantified changes in antibody binding, complex stoichiometry, and aggregation following glycosylation changes
 
-#### Related Publication
+#### Related Presentation
 
-- **Zhang, P.**; Chou, C.-W.; Finkelstein, I. J.; Lin, Y.-C. Real-Time Visualization of Intermolecular Interactions between SARS-CoV-2 Spike Protein and NTD-Binding Antibody Using High-Speed Atomic Force Microscopy. *Biophys. J.* **2024**, 123 (3), 196a. (Poster)
+- **Zhang, P.**; et al. Real-Time Visualization of Intermolecular Interactions between SARS-CoV-2 Spike Protein and NTD-Binding Antibody Using High-Speed Atomic Force Microscopy. Poster presentation, Biophysical Society Annual Meeting, 2024.

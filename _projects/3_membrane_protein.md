@@ -1,17 +1,15 @@
 ---
 layout: page
 title: "SARS-CoV-2 Membrane Protein Structure & Function"
-description: "Structural investigation using HS-AFM, TEM, and cryo-ET (Dec 2024 – Present)"
+description: "Full-length membrane protein purification, liposome reconstitution, and structural characterization"
 importance: 3
 category: UT Austin
 ---
 
-**Advisor:** Prof. Yi-Chih Lin | **Collaboration:** Dr. Zunlong Ke lab (cryo-ET)
-
-This project investigates the structure and assembly of SARS-CoV-2 membrane (M) proteins, which play a critical role in viral assembly and budding.
+This project develops membrane protein sample-preparation workflows for structural characterization of the full-length SARS-CoV-2 membrane (M) protein.
 
 #### Key Contributions
 
-- Prepared and characterized **membrane protein in E. coli expression system**
-- Reconstituted membrane proteins in lipid and visualized the formation of **membrane protein lattice** using HS-AFM and TEM
-- Visualized membrane protein proteoliposomes using **cryo-electron tomography (cryo-ET)** in collaboration with Dr. Zunlong Ke lab
+- Expressed and purified **full-length membrane protein**
+- Optimized detergent solubilization and **liposome reconstitution**
+- Prepared samples for structural characterization using **HS-AFM**, **TEM**, and **cryo-electron tomography**
