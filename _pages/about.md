@@ -2,7 +2,6 @@
 layout: about
 title: About
 permalink: /
-subtitle: Ph.D. Candidate (expected May 2027), <a href='https://www.utexas.edu/'>University of Texas at Austin</a> | Bioanalytical Assay Development
 
 profile:
   align: right
