@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-presentations",
+          title: "Presentations",
+          description: "Conference presentations by Pangmiaomiao Zhang.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/presentations/";
+          },
         },{id: "nav-research",
           title: "Research",
           description: "Research projects spanning single-molecule biophysics, fluorescence sensing, and organic catalysis.",
