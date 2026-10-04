@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://haileyyz.github.io/sitemap.xml
+Sitemap: https://zhangpangmiaomiao.com/sitemap.xml
